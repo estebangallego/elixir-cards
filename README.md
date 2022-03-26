@@ -30,7 +30,8 @@ be found at <https://hexdocs.pm/cards>.
 mix deps.get
 - Generates documentation {:ex_doc, "~> 0.27", only: :dev, runtime: false}
 - Add comments to the Modules and functions
-- @moduledoc
+- @moduledoc 
+- @doc for function documentation
 - Run inside the doc folder: mix docs
 
 *Testing*
