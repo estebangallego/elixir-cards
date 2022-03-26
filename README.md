@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**TODO: Provides methods for creating and handling a deck of cards**
 
 ## Installation
 
